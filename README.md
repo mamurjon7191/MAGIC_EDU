@@ -1,1 +1,1 @@
-# home1
+<h1>THIS IS MAGIC EDU WEBSITE</h1>
